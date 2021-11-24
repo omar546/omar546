@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @omar546
-- 👀 I’m interested in ...computer sciense,data science, digital marketing
+- computer sciense,data science bechalor's degree student
+- 👀 I’m interested in ... digital marketing
 - 🌱 I’m currently learning ...a bit of data analysis using Python
-- 📫 How to reach me ...omer.mkawy.om@gmail.com
+- 📫 How to reach me ... omer.mkawy.om@gmail.com
 
 <!---
 omar546/omar546 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
