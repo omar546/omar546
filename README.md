@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Omar Mekkawy
 -computer sciense,data science bechalor's degree student
+- Python/java Programmer , Business Intelligence (BI) Analyst & Junior Data Analyst
+- Data Entry Specialist & Statistical Reports and Presentations Editor
 - 👀 I’m interested in ... digital marketing
 - 🌱 I’m currently learning ...a bit of data analysis using Python
 - 📫 How to reach me ... omer.mkawy.om@gmail.com
