@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @omar546
-- computer sciense,data science bechalor's degree student
+- 👋 Hi, I’m Omar Mekkawy
+-computer sciense,data science bechalor's degree student
 - 👀 I’m interested in ... digital marketing
 - 🌱 I’m currently learning ...a bit of data analysis using Python
 - 📫 How to reach me ... omer.mkawy.om@gmail.com
