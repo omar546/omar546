@@ -3,12 +3,12 @@
 
 - 🌱 I’m currently learning **data analysis/visualization & machine learning**
 
-- 📫 How to reach me **omer.mkawy.om@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3iAhsK9](https://bit.ly/3iAhsK9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- 📫 How to reach me **omer.mkawy.om@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
