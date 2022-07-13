@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate computer science ,data science bachelor's degree student from Egypt<br><br>   🌱 I’m currently learning data analysis/visualization & machine learning<br><br>    📄 Know about my experiences https://bit.ly/3iAhsK9
+A passionate computer science / data science bachelor's degree student from Egypt<br><br>   🌱 I’m currently learning data analysis/visualization & machine learning<br><br>    
 
 
 ## 🌐 Socials:
