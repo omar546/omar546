@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **data analysis/visualization & mobile development**
+- 🌱 I’m currently learning **software engneering**
 
 - 📫 How to reach me **omer.mkawy.om@gmail.com**
 
