@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Software-Engineering<br>
+
 - 📫 How to reach me **omer.mkawy.om@gmail.com**
 - ⚡ Fun fact I have only 3 Canines 😅
 
