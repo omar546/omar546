@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omar Abo El-Khair</h1>
-<h3 align="center">A passionate computer science ,data science bachelor degree student from Egypt</h3>
+<h3 align="center">A passionate computer science, data science bachelor degree student from Egypt</h3>
 
 
 # 💫 About Me:
 
-- 📫 How to reach me **omer.mkawy.om@gmail.com**
+- 📫 How to reach me **omermkawy.om@gmail.com**
 - ⚡ Fun fact I have only 3 Canines 😅
 
 
