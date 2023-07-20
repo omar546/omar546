@@ -19,9 +19,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omar546&theme=dark&hide_border=false)<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar546&show_icons=true&locale=en" alt="omar546" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar546&show_icons=true&locale=en&theme=dark" alt="omar546" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar546&show_icons=true&locale=en&layout=compact" alt="omar546" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar546&show_icons=true&locale=en&theme=dark&layout=compact" alt="omar546" /></p>
 
 
 
