@@ -43,7 +43,7 @@ A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
 
 # 📊 GitHub Stats:
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="left">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar546&theme=dark&hide_border=false" /><br/>
