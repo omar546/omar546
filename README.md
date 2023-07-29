@@ -47,7 +47,7 @@ A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omar546&show_icons=true&locale=en&theme=dark" alt="omar546" /></p>
     </td>
     <td width="50%" align="right">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omar546t&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
     </td>
   </tr>
 </table>
