@@ -7,8 +7,6 @@
 A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
 </h2>
 
-<br />
-<br />
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <!--horizontal divider(gradiant)-->
