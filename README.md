@@ -1,11 +1,11 @@
-<h3 align="center" title="hehehe"> Hi there! I'm Omar 👋</h3>
+<h1 align="center" title="hehehe"> Hi there! I'm Omar 👋</h3>
 
 <br />
 <br />
 
-<h4 align="center">
+<h2 align="center">
 A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
-</h4>
+</h2>
 
 <br />
 <br />
