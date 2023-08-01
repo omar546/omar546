@@ -93,7 +93,7 @@ A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=omar546&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=omar546&icon=3&color=12)](https://visitcount.itsvg.in)
   
 </div>
 
