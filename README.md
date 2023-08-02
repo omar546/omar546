@@ -71,7 +71,7 @@ A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,java,dart,flutter,androidstudio,vscode,firebase,c,bash,docker,git,github,html,css,linux,md&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,r,java,dart,flutter,androidstudio,vscode,firebase,c,bash,git,html,css,linux&perline=14" />
   </a>
 </p>
 
