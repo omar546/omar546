@@ -11,10 +11,11 @@ A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
+<br>
 
 - 🌱 I’m exploring Mobile dev with a big interest in Flutter. 
 - 💼 I’m pursuing a Bachelor's in Computer/Data Sciences.
-- I have a strong Data Analysis background and experience with Android native development with java
+- I have a strong Data Analytics | Bi background and experience with Android native development with java
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [omermkawy.om@gmail.com](mailto:omer.mkawy.om@gmail.com).
 - 📝 See my [Resume](https://drive.google.com/drive/folders/1p6xD7SrvFjtdgTt_7NITtbdPpFcO2xXb?usp=sharing) to get more info.
