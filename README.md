@@ -26,6 +26,61 @@ A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<h1 align="center">
+Projects
+</h1>
+
+<div align="center">
+
+### Mobile Dev
+| Project | Description |
+|---------|-------------|
+| [ShopSavvy](https://github.com/omar546/ShopSavvy#readme) | E-commmerce App |
+| [PressPulse](https://github.com/omar546/PressPulse#readme) | News App |
+| [digits_pro](https://github.com/omar546/digits_pro#readme) | Math Quiz Game |
+| [ToDo](https://github.com/omar546/To-Do#readme) | To Do List App |
+| [calcBMI](https://github.com/omar546/calcBMI#readme) | BMI Calculator App |
+| [AZKAR](https://github.com/omar546/azkar_app#readme) | Android Islamic App |
+
+
+</div>
+
+<div align="center">
+
+### Data Science
+| Project | Description |
+|---------|-------------|
+| [Data-Track](https://github.com/omar546/Data-Track) | Combination of Data Analysis Projects |
+| [Part-of-Speech Tagging](https://github.com/omar546/Stochastic) | This project employs Hidden Markov Models (HMM) to create a Part-of-Speech (POS) tagging system, which assigns grammatical tags to words within a text. |
+| [Image Compression](https://github.com/omar546/Computation) | Studying Data Computation (PCA, SVM, KNN) |
+| [Data_mining](https://github.com/omar546/Data_mining) | project on {titanic, iris} |
+| [Computing_Intensive](https://github.com/omar546/Computing_Intensive) | Studying Computing Intensive Technics |
+| [Regression](https://github.com/omar546/Regression_learning) | Learning Regression |
+
+</div>
+
+<div align="center">
+
+### Computer Science / Software Engineering
+| Project | Description |
+|---------|-------------|
+| [Algo-Design](https://github.com/omar546/Algo-Design) | Job Scheduling Algorithm |
+| [system_engineering-devops](https://github.com/omar546/alx-system_engineering-devops) | Shell 101 |
+| [low_level_programming](https://github.com/omar546/alx-low_level_programming) | C programming projects |
+| [C_Simple_Shell](https://github.com/omar546/C_Simple_Shell) | This project is a simple implementation of a shell program in the C programming language. |
+| [printf](https://github.com/omar546/printf) | This project implements a simplified version of the printf function in the C programming language.  |
+| [DataBase](https://github.com/omar546/DataBase) | Practicing SQL and DataBase Design |
+| [Ai_intro](https://github.com/omar546/Ai_intro) | First Ai project (XO console game) |
+
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -39,7 +94,9 @@ A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
 
 
 
-# 📊 GitHub Stats:
+<h1 align="center">
+Github Stats 📊
+</h1>
 
 <table align="center" width="100%">
   <tr>
