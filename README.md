@@ -68,7 +68,6 @@ Projects
 | [Algo-Design](https://github.com/omar546/Algo-Design) | Job Scheduling Algorithm |
 | [system_engineering-devops](https://github.com/omar546/alx-system_engineering-devops) | Shell 101 |
 | [low_level_programming](https://github.com/omar546/alx-low_level_programming) | C programming projects |
-| [C_Simple_Shell](https://github.com/omar546/C_Simple_Shell) | This project is a simple implementation of a shell program in the C programming language. |
 | [printf](https://github.com/omar546/printf) | This project implements a simplified version of the printf function in the C programming language.  |
 | [DataBase](https://github.com/omar546/DataBase) | Practicing SQL and DataBase Design |
 | [Ai_intro](https://github.com/omar546/Ai_intro) | First Ai project (XO console game) |
