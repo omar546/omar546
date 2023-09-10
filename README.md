@@ -38,7 +38,7 @@ Projects
 |---------|-------------|
 | [ShopSavvy](https://github.com/omar546/ShopSavvy#readme) | E-commmerce App |
 | [PressPulse](https://github.com/omar546/PressPulse#readme) | News App |
-| [digits_pro](https://github.com/omar546/digits_pro#readme) | Math Quiz Game |
+| [DIGITSpro](https://github.com/omar546/digits_pro#readme) | Math Quiz Game |
 | [ToDo](https://github.com/omar546/To-Do#readme) | To Do List App |
 | [calcBMI](https://github.com/omar546/calcBMI#readme) | BMI Calculator App |
 | [AZKAR](https://github.com/omar546/azkar_app#readme) | Android Islamic App |
