@@ -70,7 +70,7 @@ Projects
 | [low_level_programming](https://github.com/omar546/alx-low_level_programming) | C programming projects |
 | [higher_level_programming](https://github.com/omar546/alx-higher_level_programming) | Python programming projects with hint of shell |
 | [printf](https://github.com/omar546/printf) | This project implements a simplified version of 
-| [simple-shell](https://github.com/SeragAmged/simple_shell) | simple shell in the C programming language.  |
+| [simple-shell](https://github.com/SeragAmged/simple_shell) | implementing simple shell in the C programming language.  |
 | [DataBase](https://github.com/omar546/DataBase) | Practicing SQL and DataBase Design |
 | [Ai_intro](https://github.com/omar546/Ai_intro) | First Ai project (XO console game) |
 
