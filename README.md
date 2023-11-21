@@ -70,7 +70,7 @@ Projects
 | [system_engineering-devops](https://github.com/omar546/alx-system_engineering-devops) | Shell 101 |
 | [low_level_programming](https://github.com/omar546/alx-low_level_programming) | C programming projects |
 | [higher_level_programming](https://github.com/omar546/alx-higher_level_programming) | Python programming projects with hint of shell |
-| [sorting-big(O)](https://github.com/omar546/sorting_algorithms) |implementing sorting algorithms in the C programming language and understanding the concept of Big O notation.|
+| [sorting-big(O)](https://github.com/omar546/sorting_algorithms) |implementing sorting algorithms in C and understanding the concept of Big O notation.|
 | [printf](https://github.com/omar546/printf) | This project implements a simplified version of |
 | [simple-shell](https://github.com/SeragAmged/simple_shell) | implementing simple shell in the C programming language.  |
 | [monty](https://github.com/omar546/monty) | C interpreter for Monty ByteCodes files.  |
