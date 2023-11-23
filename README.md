@@ -41,6 +41,7 @@ Projects
 | [ToDo](https://github.com/omar546/To-Do#readme) | To Do List App |
 | [DIGITSpro](https://github.com/omar546/digits_pro#readme) | Math Quiz Game |
 | [FlagMaster](https://github.com/omar546/flag_master#readme) | Flag Guessing Game |
+| [PingPoint](https://github.com/omar546/PingPoint/tree/master#readme) | Ping-Pong Game Score Tracking App |
 | [calcBMI](https://github.com/omar546/calcBMI#readme) | BMI Calculator App |
 | [AZKAR](https://github.com/omar546/azkar_app#readme) | Android Islamic App |
 
