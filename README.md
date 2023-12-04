@@ -67,7 +67,6 @@ Projects
 ### Computer Science / Software Engineering
 | Project | Description |
 |---------|-------------|
-| [Algo-Design](https://github.com/omar546/Algo-Design) | Job Scheduling Algorithm |
 | [system_engineering-devops](https://github.com/omar546/alx-system_engineering-devops) | Shell 101 |
 | [low_level_programming](https://github.com/omar546/alx-low_level_programming) | C programming projects |
 | [higher_level_programming](https://github.com/omar546/alx-higher_level_programming) | Python programming projects with hint of shell |
@@ -76,6 +75,7 @@ Projects
 | [simple-shell](https://github.com/SeragAmged/simple_shell) | implementing simple shell in the C programming language.  |
 | [monty](https://github.com/omar546/monty) | C interpreter for Monty ByteCodes files.  |
 | [DataBase](https://github.com/omar546/DataBase) | Practicing SQL and DataBase Design |
+| [Algo-Design](https://github.com/omar546/Algo-Design) | Job Scheduling Algorithm |
 | [Ai_intro](https://github.com/omar546/Ai_intro) | First Ai project (XO console game) |
 
 </div>
