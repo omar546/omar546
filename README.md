@@ -14,6 +14,8 @@ A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
 
 
 <br>
+<br>
+<br>
 
 - 🌱 I’m exploring Mobile dev with a big interest in Flutter. 
 - 💼 I’m pursuing a Bachelor's in Computer/Data Sciences.
