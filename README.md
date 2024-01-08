@@ -75,7 +75,7 @@ Projects
 | [Binary_Trees](https://github.com/omar546/binary_trees) | Implementing binary trees in C |
 | [sorting-big(O)](https://github.com/omar546/sorting_algorithms) | Implementing sorting algorithms in C and understanding the concept of Big O notation.|
 | [printf](https://github.com/omar546/printf) | This project implements a simplified version of |
-| [simple-shell](https://github.com/SeragAmged/simple_shell) | implementing simple shell in the C programming language.  |
+| [simple-shell](https://github.com/SeragAmged/simple_shell) | Implementing simple shell in the C programming language.  |
 | [monty](https://github.com/omar546/monty) | C interpreter for Monty ByteCodes files.  |
 | [DataBase](https://github.com/omar546/DataBase) | Practicing SQL and DataBase Design |
 | [Algo-Design](https://github.com/omar546/Algo-Design) | Job Scheduling Algorithm |
