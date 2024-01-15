@@ -69,6 +69,7 @@ Projects
 | Project | Description |
 |---------|-------------|
 | [AirBnB_clone](https://github.com/omar546/AirBnB_clone) | Command Interpreter, HTML/CSS templating, database storage, API, front-end integration |
+| [AirBnB_clone_v2](https://github.com/omar546/AirBnB_clone_v2) | Continues work of AirBnB_clone |
 | [system_engineering-devops](https://github.com/omar546/alx-system_engineering-devops) | Shell 101 + DevOps |
 | [low_level_programming](https://github.com/omar546/alx-low_level_programming) | C programming projects |
 | [higher_level_programming](https://github.com/omar546/alx-higher_level_programming) | Python & JS + SQL programming projects with hint of shell |
