@@ -150,7 +150,7 @@ Github Stats 📊
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,java,dart,flutter,androidstudio,vscode,firebase,c,bash,git,html,css,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,r,java,dart,flutter,androidstudio,vscode,firebase,sqlite,fastapi,postman,c,bash,git,github,html,css,javascript,linux,markdown&perline=10" />
   </a>
 </p>
 
