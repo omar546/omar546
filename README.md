@@ -37,8 +37,8 @@ Projects
 ### Mobile Dev
 | Project | Description |
 |---------|-------------|
-| [ShopSavvy](https://github.com/omar546/ShopSavvy#readme) | E-commmerce App |
 | [DIGINOTE](https://github.com/omar546/diginote) | Notes App powerdby DL |
+| [ShopSavvy](https://github.com/omar546/ShopSavvy#readme) | E-commmerce App |
 | [PressPulse](https://github.com/omar546/PressPulse#readme) | News App |
 | [ToDo](https://github.com/omar546/To-Do#readme) | To Do List App |
 | [DIGITSpro](https://github.com/omar546/digits_pro#readme) | Math Quiz Game |
