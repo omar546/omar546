@@ -66,7 +66,7 @@ Projects
 
 <div align="center">
 
-### Computer Science / Software Engineering
+### Computer Science | Software Engineering | DevOps
 | Project | Description |
 |---------|-------------|
 | [system_engineering-devops](https://github.com/omar546/alx-system_engineering-devops) | Shell 101 + DevOps |
