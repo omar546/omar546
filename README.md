@@ -52,20 +52,6 @@ Projects
 
 <div align="center">
 
-### Data Science
-| Project | Description |
-|---------|-------------|
-| [Data-Track](https://github.com/omar546/Data-Track) | Combination of Data Analysis Projects |
-| [Part-of-Speech Tagging](https://github.com/omar546/Stochastic) | This project employs Hidden Markov Models (HMM) to create a Part-of-Speech (POS) tagging system, which assigns grammatical tags to words within a text. |
-| [Image Compression](https://github.com/omar546/Computation) | Studying Data Computation (PCA, SVM, KNN) |
-| [Data_mining](https://github.com/omar546/Data_mining) | project on {titanic, iris} |
-| [Computing_Intensive](https://github.com/omar546/Computing_Intensive) | Studying Computing Intensive Technics |
-| [Regression](https://github.com/omar546/Regression_learning) | Learning Regression |
-
-</div>
-
-<div align="center">
-
 ### Computer Science | Software Engineering | DevOps
 | Project | Description |
 |---------|-------------|
@@ -88,6 +74,19 @@ Projects
 
 </div>
 
+<div align="center">
+
+### Data Science
+| Project | Description |
+|---------|-------------|
+| [Data-Track](https://github.com/omar546/Data-Track) | Combination of Data Analysis Projects |
+| [Part-of-Speech Tagging](https://github.com/omar546/Stochastic) | This project employs Hidden Markov Models (HMM) to create a Part-of-Speech (POS) tagging system, which assigns grammatical tags to words within a text. |
+| [Image Compression](https://github.com/omar546/Computation) | Studying Data Computation (PCA, SVM, KNN) |
+| [Data_mining](https://github.com/omar546/Data_mining) | project on {titanic, iris} |
+| [Computing_Intensive](https://github.com/omar546/Computing_Intensive) | Studying Computing Intensive Technics |
+| [Regression](https://github.com/omar546/Regression_learning) | Learning Regression |
+
+</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
