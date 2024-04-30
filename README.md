@@ -37,7 +37,7 @@ Projects
 ### Mobile Dev
 | Project | Description |
 |---------|-------------|
-| [DIGINOTE](https://github.com/omar546/diginote) | Notes App powerdby DL |
+| [DIGINOTE](https://github.com/omar546/diginote) | Notes App with DL feature |
 | [ShopSavvy](https://github.com/omar546/ShopSavvy#readme) | E-commmerce App |
 | [PressPulse](https://github.com/omar546/PressPulse#readme) | News App |
 | [ToDo](https://github.com/omar546/To-Do#readme) | To Do List App |
