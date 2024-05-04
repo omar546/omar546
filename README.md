@@ -41,7 +41,7 @@ Projects
 | [ShopSavvy](https://github.com/omar546/ShopSavvy#readme) | E-commmerce App |
 | [PressPulse](https://github.com/omar546/PressPulse#readme) | News App |
 | [ToDo](https://github.com/omar546/To-Do#readme) | To Do List App |
-| [Warehouse](| [ToDo](https://github.com/omar546/To-Do#readme) | Warehouse Management App |
+| [Warehouse](https://github.com/SeragAmged/warehouse_app) | Warehouse Management App |
 | [DIGITSpro](https://github.com/omar546/digits_pro#readme) | Math Quiz Game |
 | [FlagMaster](https://github.com/omar546/flag_master#readme) | Flag Guessing Game |
 | [PingPoint](https://github.com/omar546/PingPoint/tree/master#readme) | Ping-Pong Game Score Tracking App |
