@@ -61,6 +61,7 @@ Projects
 | [higher_level_programming](https://github.com/omar546/alx-higher_level_programming) | Python & JS + SQL programming projects with hint of shell |
 | [alx-backend-javascript](https://github.com/omar546/alx-backend-javascript) | learning nodeJS for backend |
 | [alx-backend-python](https://github.com/omar546/alx-backend-python) | adv python for backend |
+| [alx-backend-storage](https://github.com/omar546/alx-backend-storage) | backend data storage concepts |
 | [alx-interview](https://github.com/omar546/alx-interview) | going through some interview problems |
 | [AirBnB_clone](https://github.com/omar546/AirBnB_clone) | Command Interpreter, HTML/CSS templating, database storage, API, front-end integration |
 | [AirBnB_clone_v2](https://github.com/omar546/AirBnB_clone_v2) | Continues work of AirBnB_clone |
