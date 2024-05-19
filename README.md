@@ -129,7 +129,7 @@ Github Stats 📊
   <tr>
     <td width="50%" align="left">
             <img src="https://github-readme-stats.vercel.app/api?username=omar546&show_icons=true&theme=dark" /><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar546&theme=dark&hide_border=false" /><br/>
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=omar546&background=151515&border=EBEBEB&stroke=EBEBEB&sideLabels=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=EBEBEB" alt="GitHub Streak" />
     </td>
     <td width="50%" align="right">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omar546&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
