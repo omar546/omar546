@@ -29,7 +29,7 @@ A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
 
 
 <h1 align="center">
-Projects
+Projects 🧩
 </h1>
 
 <div align="center">
@@ -150,7 +150,7 @@ Github Stats 📊
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Part of My Tech-Stack👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Part of My Tech-Stack 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -165,7 +165,7 @@ Github Stats 📊
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
