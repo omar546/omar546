@@ -6,7 +6,7 @@
 
 
 <h2 align="center">
-A Data Science & Software Engineering Student 🚀 from Alex, Egypt.
+A Software Engineering & Data Science Student 🚀 from Alex, Egypt.
 </h2>
 
 
