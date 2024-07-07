@@ -41,7 +41,7 @@ Projects 🧩
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/omar546/diginote"><img src="https://github.com/omar546/omar546/assets/71936776/0aa111be-c7a0-4534-9f4b-69827062d804" alt="DIGINOTE" /><br></a><br>Notes App with DL feature</td>
+    <td align="center"><a href="https://github.com/omar546/diginote"><img src="https://github.com/omar546/omar546/assets/71936776/0aa111be-c7a0-4534-9f4b-69827062d804" alt="DIGINOTE" /><br></a><br>RichText Notes App with DL feature</td>
     <td align="center"><a href="https://github.com/omar546/ShopSavvy#readme"><img src="https://github.com/omar546/omar546/assets/71936776/fb8b7267-3efc-43d2-8a9c-69cd00b586c7" alt="ShopSavvy" /><br></a><br>E-commerce App</td>
     <td align="center"><a href="https://github.com/omar546/PressPulse#readme"><img src="https://github.com/omar546/omar546/assets/71936776/694287af-240f-43ec-9990-202a1597095d" alt="PressPulse" /><br></a><br>News App</td>
   </tr>
