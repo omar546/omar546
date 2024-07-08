@@ -48,7 +48,7 @@ Projects 🧩
   <tr>
     <td align="center"><a href="https://github.com/omar546/To-Do#readme"><img src="https://github.com/omar546/omar546/assets/71936776/00e82916-ed73-41a4-bcce-51ac579440b9" alt="ToDo" /><br></a><br>To Do List App</td>
     <td align="center"><a href="https://github.com/SeragAmged/warehouse_app"><img src="https://github.com/omar546/omar546/assets/71936776/1330c9e8-081a-4d25-b635-72e5cddd2a73" alt="Warehouse" /><br></a><br>Warehouse Management App</td>
-    <td align="center"><a href="https://github.com/SeragAmged/warehouse_app"><img src="https://github.com/omar546/omar546/assets/71936776/0e613491-9dcd-45e4-87ea-6201d227143d" alt="DigitsPro" /><br></a><br>Math Quiz Game</td>
+    <td align="center"><a href="https://github.com/omar546/digits_pro"><img src="https://github.com/omar546/omar546/assets/71936776/0e613491-9dcd-45e4-87ea-6201d227143d" alt="DigitsPro" /><br></a><br>Math Quiz Game</td>
   <tr>
     <td align="center"><a href="https://github.com/omar546/flag_master#readme"><img src="https://github.com/omar546/omar546/assets/71936776/c77351ed-b487-4790-945e-3681adcdcb6e" alt="FlagMaster" /><br></a><br>Flag Guessing Game</td>
     <td align="center"><a href="https://github.com/omar546/PingPoint/tree/master#readme"><img src="https://github.com/omar546/omar546/assets/71936776/c4249cbc-24cb-46aa-abaa-b00498e828ef" alt="PingPoint" /><br></a><br>Ping-Pong Game Score Tracking App</td>
