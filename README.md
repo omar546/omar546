@@ -58,7 +58,7 @@ Projects 🧩
   </tr>
   <tr>
      <td align="center"><a href="https://github.com/omar546/calcBMI#readme"><img src="https://github.com/omar546/omar546/assets/71936776/084ff48d-8e67-4b28-8722-38f596fd9821" alt="CalcBMI" /><br></a><br>BMI Calculator App</td>
-    <td align="center"><a href="https://github.com/omar546/azkar_app#readme"><img src="https://github.com/omar546/omar546/assets/71936776/dd0b95db-41c0-4ef2-b03f-363a080c3e0d" alt="AZkar" /><br></a><br>Android Islamic App</td>
+    <td align="center"><a href="https://github.com/omar546/azkar_app#readme"><img src="https://github.com/omar546/omar546/assets/71936776/dd0b95db-41c0-4ef2-b03f-363a080c3e0d" alt="AZkar" /><br></a><br>Islamic App</td>
     <td></td>
   </tr>
 </table>
