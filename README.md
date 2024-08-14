@@ -2,12 +2,8 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center" title="hehehe"> 👋🏻 Hi there! I'm Omar 👨🏻‍💻</h3>
+<h1 align="center" title="hehehe"> 👋🏻 Hi there! I'm Omar 👨🏻‍💻<br> a Jr. Software Engineer | Flutter developer</h3>
 
-
-<h2 align="center">
-A Software Engineering & Data Science Student 🚀 from Alex, Egypt.
-</h2>
 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -17,10 +13,8 @@ A Software Engineering & Data Science Student 🚀 from Alex, Egypt.
 <br>
 <br>
 
-- 📱 I’m exploring Mobile dev with a big interest in Flutter. 
 - 💼 I hold a Bachelor's in Computer/Data Science.
 - 📦 I have a strong Data Analytics / BI background and experience with Android native development with java
-- 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [omermkawy.om@gmail.com](mailto:omer.mkawy.om@gmail.com).
 
 
@@ -67,7 +61,7 @@ Projects 🧩
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--- snake -->
+<!--- snake
 <div align="center">
   <picture>
   <source
@@ -83,11 +77,8 @@ Projects 🧩
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-</div>
+</div> -->
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
 </td>
 
 
@@ -118,7 +109,8 @@ Projects 🧩
 | [Ai_intro](https://github.com/omar546/Ai_intro) | First Ai project (XO console game) |
 
 </div>
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
 ### Data Science
