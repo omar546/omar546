@@ -2,7 +2,7 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center" title="hehehe"> 👋🏻 Hi there! I'm Omar 👨🏻‍💻<br> a Jr. Software Engineer | Flutter developer</h3>
+<h3 align="center" title="hehehe"> 👋🏻 Hi there! I'm Omar 👨🏻‍💻<br> a Jr. Software Engineer | Flutter developer</h3>
 
 
 
@@ -14,6 +14,7 @@
 <br>
 
 - 💼 I hold a Bachelor's in Computer/Data Science.
+- 🎓 I am a Alx/Holberton 12-month SE programme graduate
 - 📦 I have a strong Data Analytics / BI background and experience with Android native development with java
 - 📫 Email me at [omermkawy.om@gmail.com](mailto:omer.mkawy.om@gmail.com).
 
