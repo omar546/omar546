@@ -14,8 +14,8 @@
 <br>
 
 - 💼 I hold a Bachelor's in Computer/Data Science.
-- 🎓 I am a Alx/Holberton 12-month SE programme graduate
-- 📦 I have a strong Data Analytics / BI background and experience with Android native development with java
+- 🎓 I am an Alx/Holberton 12-month SE program graduate
+- 📦 I have a strong Data Analytics (Udacity Nano-Degrees Grad) / BI background and experience with Android native development with java
 - 📫 Email me at [omermkawy.om@gmail.com](mailto:omer.mkawy.om@gmail.com).
 
 
