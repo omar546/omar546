@@ -28,6 +28,9 @@
 <h1 align="center">
 Projects 🧩
 </h1>
+<h5 align="center">
+Click for more info
+</h5>
 
 <div align="center">
 
