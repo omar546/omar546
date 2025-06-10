@@ -36,31 +36,33 @@ Click the logo for more info
 
 <div align="center">
 
+
 ### Mobile Dev
-
-
 <table>
   <tr>
+<td align="center"><a href="https://github.com/omar546/Blokkah/blob/main/README.md"><img src="https://github.com/user-attachments/assets/e64ebfcf-6ed3-4bd9-9c0e-16bf5fda470e" alt="Blokkah" /><br></a><br>Real Estate Platform</td>
     <td align="center"><a href="https://github.com/omar546/diginote"><img src="https://github.com/omar546/omar546/assets/71936776/0aa111be-c7a0-4534-9f4b-69827062d804" alt="DIGINOTE" /><br></a><br>RichText Notes App with DL feature</td>
     <td align="center"><a href="https://github.com/omar546/walletwize"><img src="https://github.com/user-attachments/assets/ce521f73-612d-47aa-aa87-19230a1d4c8a" alt="WalletWize" /><br></a><br>Expense Tracking App</td>
-    <td align="center"><a href="https://github.com/omar546/fintech_prototype"><img src="https://github.com/user-attachments/assets/c2a57acf-34e0-4865-9d5a-a5b59e80ea43" alt="Fintech" /><br></a><br>Fintech App Prototype</td>
   </tr>
   <tr>
+<td align="center"><a href="https://github.com/omar546/fintech_prototype"><img src="https://github.com/user-attachments/assets/c2a57acf-34e0-4865-9d5a-a5b59e80ea43" alt="Fintech" /><br></a><br>Fintech App Prototype</td>
     <td align="center"><a href="https://github.com/omar546/ShopSavvy#readme"><img src="https://github.com/omar546/omar546/assets/71936776/fb8b7267-3efc-43d2-8a9c-69cd00b586c7" alt="ShopSavvy" /><br></a><br>E-commerce App Prototype</td>
     <td align="center"><a href="https://github.com/omar546/PressPulse#readme"><img src="https://github.com/omar546/omar546/assets/71936776/694287af-240f-43ec-9990-202a1597095d" alt="PressPulse" /><br></a><br>News App</td>
-    <td align="center"><a href="https://github.com/omar546/To-Do#readme"><img src="https://github.com/omar546/omar546/assets/71936776/00e82916-ed73-41a4-bcce-51ac579440b9" alt="ToDo" /><br></a><br>To Do List App</td>
     
   <tr>
+ <td align="center"><a href="https://github.com/omar546/To-Do#readme"><img src="https://github.com/omar546/omar546/assets/71936776/00e82916-ed73-41a4-bcce-51ac579440b9" alt="ToDo" /><br></a><br>To Do List App</td>
     <td align="center"><a href="https://github.com/SeragAmged/warehouse_app"><img src="https://github.com/omar546/omar546/assets/71936776/1330c9e8-081a-4d25-b635-72e5cddd2a73" alt="Warehouse" /><br></a>
       <br>Warehouse Management App</td>
     <td align="center"><a href="https://github.com/omar546/digits_pro"><img src="https://github.com/omar546/omar546/assets/71936776/0e613491-9dcd-45e4-87ea-6201d227143d" alt="DigitsPro" /><br></a><br>Math Quiz Game</td>
-    <td align="center"><a href="https://github.com/omar546/flag_master#readme"><img src="https://github.com/omar546/omar546/assets/71936776/c77351ed-b487-4790-945e-3681adcdcb6e" alt="FlagMaster" /><br></a><br>Flag Guessing Game</td>
   </tr>
   <tr>
+<td align="center"><a href="https://github.com/omar546/flag_master#readme"><img src="https://github.com/omar546/omar546/assets/71936776/c77351ed-b487-4790-945e-3681adcdcb6e" alt="FlagMaster" /><br></a><br>Flag Guessing Game</td>
     <td align="center"><a href="https://github.com/omar546/PingPoint/tree/master#readme"><img src="https://github.com/omar546/omar546/assets/71936776/c4249cbc-24cb-46aa-abaa-b00498e828ef" alt="PingPoint" /><br></a><br>Ping-Pong Game Score Tracking App</td>
      <td align="center"><a href="https://github.com/omar546/calcBMI#readme"><img src="https://github.com/omar546/omar546/assets/71936776/084ff48d-8e67-4b28-8722-38f596fd9821" alt="CalcBMI" /><br></a><br>BMI Calculator App</td>
-    <td align="center"><a href="https://github.com/omar546/azkar_app#readme"><img src="https://github.com/omar546/omar546/assets/71936776/dd0b95db-41c0-4ef2-b03f-363a080c3e0d" alt="AZkar" /><br></a><br>Islamic App</td>
   </tr>
+<tr>
+<td align="center"><a href="https://github.com/omar546/azkar_app#readme"><img src="https://github.com/omar546/omar546/assets/71936776/dd0b95db-41c0-4ef2-b03f-363a080c3e0d" alt="AZkar" /><br></a><br>Islamic App</td>
+ </tr>
 </table>
 
 </div>
