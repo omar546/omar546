@@ -15,7 +15,7 @@
 
 - 💼 I hold a Bachelor's in Computing & Data Science.
 - 🎓 I am an Alx 12-month SWE program grad
-- ➕ Kicked off with Android native @Java
+- ➕ Kicked off with Android native @Java then Flutter
 - 📦 I have a strong Data Analytics/BI background
 - 🎓⬆ (4 Udacity Nano-Degrees Grad)
 - 📫 Email me at [omermkawy.om@gmail.com](mailto:omer.mkawy.om@gmail.com).
