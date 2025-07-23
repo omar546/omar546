@@ -101,6 +101,8 @@ Click the logo for more info
 
 </td>
 
+<details>
+<summary>💡 Other Projects (ALX, C, DevOps, Data Science)</summary>
 
 <div align="center">
 
@@ -144,6 +146,7 @@ Click the logo for more info
 | [Regression](https://github.com/omar546/Regression_learning) | Learning Regression |
 
 </div>
+</details>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
