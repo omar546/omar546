@@ -19,6 +19,7 @@
 - 📦 I have a strong Data Analytics/BI background
 - 🎓⬆ (4 Udacity Nano-Degrees Grad)
 - 📫 Email me at [omermkawy.om@gmail.com](mailto:omer.mkawy.om@gmail.com).
+- [My Portfolio](https://portfolioomaraboelkhair.vercel.app/)
 
 
 <!--horizontal divider(gradiant)-->
