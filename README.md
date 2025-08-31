@@ -50,33 +50,35 @@ Click the logo for more info
 
   <tr>
     <td align="center"><a href="https://github.com/omar546/diginote"><img src="https://github.com/omar546/omar546/assets/71936776/0aa111be-c7a0-4534-9f4b-69827062d804" alt="DIGINOTE" /><br></a><br>RichText Notes App with DL feature</td>
-    <td align="center"><a href="https://github.com/omar546/happit_tacker"><img src="https://github.com/user-attachments/assets/a07acc52-60fa-4104-b561-349b799a021c" alt="HappitTracker" /><br></a><br>Habit Tracker</td>
-    <td align="center"><a href="https://github.com/omar546/litloop"><img src="https://github.com/user-attachments/assets/c7e69185-cd4b-4425-b0b5-fd2f67352bcc" alt="CleanArch" /><br></a><br>Bookstore App Prototype (cleanArch)</td>
+    <td align="center"><a href="https://github.com/omar546/mivro"><img src="https://github.com/user-attachments/assets/b13a94e2-8c54-4e0f-b073-39f812d47c5a" alt="Mivro" /><br></a><br>Track Inventory & Sales</td>
+      <td align="center"><a href="https://github.com/omar546/happit_tacker"><img src="https://github.com/user-attachments/assets/a07acc52-60fa-4104-b561-349b799a021c" alt="HappitTracker" /><br></a><br>Habit Tracker</td>
+
 
     
     
   <tr>
+        <td align="center"><a href="https://github.com/omar546/litloop"><img src="https://github.com/user-attachments/assets/c7e69185-cd4b-4425-b0b5-fd2f67352bcc" alt="CleanArch" /><br></a><br>Bookstore App Prototype (cleanArch)</td>
         <td align="center"><a href="https://github.com/omar546/auraview"><img src="https://github.com/user-attachments/assets/5b03c087-1146-4efa-960e-176ffffaf836" alt="AURA" /><br></a><br>Journaling App</td>
        <td align="center"><a href="https://github.com/omar546/pay_mint/blob/main/README.md"><img src="https://github.com/user-attachments/assets/f9f9dc54-3013-4c08-ad39-95449ef7de49" alt="PayMint" /><br></a><br>Payment Gatway Prototype</td>
 
-  <td align="center"><a href="https://github.com/omar546/fintech_prototype"><img src="https://github.com/user-attachments/assets/c2a57acf-34e0-4865-9d5a-a5b59e80ea43" alt="Fintech" /><br></a><br>Fintech App Prototype</td>
     
   </tr>
 
 
   <tr>
+      <td align="center"><a href="https://github.com/omar546/fintech_prototype"><img src="https://github.com/user-attachments/assets/c2a57acf-34e0-4865-9d5a-a5b59e80ea43" alt="Fintech" /><br></a><br>Fintech App Prototype</td>
         <td align="center"><a href="https://github.com/omar546/flag_master#readme"><img src="https://github.com/omar546/omar546/assets/71936776/c77351ed-b487-4790-945e-3681adcdcb6e" alt="FlagMaster" /><br></a><br>Flag Guessing Game</td>
         <td align="center"><a href="https://github.com/omar546/digits_pro"><img src="https://github.com/omar546/omar546/assets/71936776/0e613491-9dcd-45e4-87ea-6201d227143d" alt="DigitsPro" /><br></a><br>Math Quiz Game</td>
-    <td align="center"><a href="https://github.com/omar546/PressPulse#readme"><img src="https://github.com/omar546/omar546/assets/71936776/694287af-240f-43ec-9990-202a1597095d" alt="PressPulse" /><br></a><br>News App</td>
  
   </tr>
 
 
 <tr>
+      <td align="center"><a href="https://github.com/omar546/PressPulse#readme"><img src="https://github.com/omar546/omar546/assets/71936776/694287af-240f-43ec-9990-202a1597095d" alt="PressPulse" /><br></a><br>News App</td>
       <td align="center"><a href="https://github.com/omar546/ShopSavvy#readme"><img src="https://github.com/omar546/omar546/assets/71936776/fb8b7267-3efc-43d2-8a9c-69cd00b586c7" alt="ShopSavvy" /><br></a><br>E-commerce App Prototype</td>
       <td align="center"><a href="https://github.com/omar546/To-Do#readme"><img src="https://github.com/omar546/omar546/assets/71936776/00e82916-ed73-41a4-bcce-51ac579440b9" alt="ToDo" /><br></a><br>To Do List App</td>
-   <td align="center"><a href="https://github.com/omar546/PingPoint/tree/master#readme"><img src="https://github.com/omar546/omar546/assets/71936776/c4249cbc-24cb-46aa-abaa-b00498e828ef" alt="PingPoint" /><br></a><br>Ping-Pong Game Score Tracking App</td>
-<!--   <td align="center"><a href="https://github.com/omar546/calcBMI#readme"><img src="https://github.com/omar546/omar546/assets/71936776/084ff48d-8e67-4b28-8722-38f596fd9821" alt="CalcBMI" /><br></a><br>BMI Calculator App</td>
+<!--    <td align="center"><a href="https://github.com/omar546/PingPoint/tree/master#readme"><img src="https://github.com/omar546/omar546/assets/71936776/c4249cbc-24cb-46aa-abaa-b00498e828ef" alt="PingPoint" /><br></a><br>Ping-Pong Game Score Tracking App</td>
+<!--   <td align="center"><a href="https://github.com/omar546/calcBMI#readme"><img src="https://github.com/omar546/omar546/assets/71936776/084ff48d-8e67-4b28-8722-38f596fd9821" alt="CalcBMI" /><br></a><br>BMI Calculator App</td> -->
  </tr> -->
 </table>
 
