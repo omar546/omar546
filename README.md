@@ -159,32 +159,6 @@ Click the logo for more info
 
 
 
-
-<h1 align="center">
-Github Stats 📊
-</h1>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="left">
-            <img src="https://github-readme-stats.vercel.app/api?username=omar546&show_icons=true&theme=dark" /><br/>
-<!--      <img src="https://github-readme-streak-stats.herokuapp.com?user=omar546&background=151515&border=EBEBEB&stroke=EBEBEB&sideLabels=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=EBEBEB" alt="GitHub Streak" /> -->
-    </td>
-    <td width="50%" align="right">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omar546&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
