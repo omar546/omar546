@@ -148,7 +148,7 @@ Click the logo for more info
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,sqlite,mongodb,fastapi,postman,figma,py,r,java,c,bash,linux,git,html,css,javascript,flask,aws&perline=11" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,supabase,sqlite,mongodb,fastapi,postman,figma,py,r,java,c,bash,linux,git,html,css,javascript,flask,aws&perline=11" />
   </a>
 </p>
 
